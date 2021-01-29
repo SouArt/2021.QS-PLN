@@ -1,3 +1,5 @@
 # 2021.QS-PLN
-Disciplina de Processamento de Linguagem Natural
+# Processamento de Linguagem Natural [2021.QS]
+
 Prof. Alexandre Donizeti Alves
+UFABC [CMCC]
