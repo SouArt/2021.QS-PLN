@@ -14,6 +14,7 @@ UFABC [CMCC]
 ### **Aula 04 - Normalização de Textos**
 [2021_Q1_PLN_Notebook_02.ipynb](
   https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2003/2021_Q1_PLN_Notebook_02.ipynb)
+  
 [2021_Q1_PLN_Notebook_03.ipynb](
   https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2003/2021_Q1_PLN_Notebook_03.ipynb)
   
