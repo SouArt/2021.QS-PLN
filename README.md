@@ -17,4 +17,5 @@ UFABC [CMCC]
   
 [2021_Q1_PLN_Notebook_03.ipynb](
   https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2003/2021_Q1_PLN_Notebook_03.ipynb)
+ [Dados](https://github.com/adalves-ufabc/2021.QS-PLN/tree/main/Aula%2004/data) 
   
