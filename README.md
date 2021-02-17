@@ -12,9 +12,16 @@ UFABC [CMCC]
 ##### &nbsp;&nbsp;&nbsp; [2021_Q1_PLN_Notebook_01.ipynb](https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2003/2021_Q1_PLN_Notebook_01.ipynb)
   
 ### **Aula 04 - Normalização de Textos**
-##### &nbsp;&nbsp;&nbsp; [2021_Q1_PLN_Notebook_02.ipynb](https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2003/2021_Q1_PLN_Notebook_02.ipynb)
+##### &nbsp;&nbsp;&nbsp; [2021_Q1_PLN_Notebook_02.ipynb](https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2004/2021_Q1_PLN_Notebook_02.ipynb)
   
-##### &nbsp;&nbsp;&nbsp; [2021_Q1_PLN_Notebook_03.ipynb](https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2003/2021_Q1_PLN_Notebook_03.ipynb)
+##### &nbsp;&nbsp;&nbsp; [2021_Q1_PLN_Notebook_03.ipynb](https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2004/2021_Q1_PLN_Notebook_03.ipynb)
   
 ##### &nbsp;&nbsp;&nbsp; [Dados](https://github.com/adalves-ufabc/2021.QS-PLN/tree/main/Aula%2004/data) 
+
+### **Aula 05 - Modelo de Linguagem com N-gramas**
+##### &nbsp;&nbsp;&nbsp; [2021_Q1_PLN_Notebook_04.ipynb](https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2005/2021_Q1_PLN_Notebook_02.ipynb)
+  
+##### &nbsp;&nbsp;&nbsp; [2021_Q1_PLN_Notebook_05.ipynb](https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2005/2021_Q1_PLN_Notebook_03.ipynb)
+  
+##### &nbsp;&nbsp;&nbsp; [Dados](https://github.com/adalves-ufabc/2021.QS-PLN/tree/main/Aula%2005/data) 
   
