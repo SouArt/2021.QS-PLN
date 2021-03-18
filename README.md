@@ -36,7 +36,7 @@ UFABC [CMCC]
   
 ##### &nbsp;&nbsp;&nbsp; [Dados](https://github.com/adalves-ufabc/2021.QS-PLN/tree/main/Aula%2007/data) 
 
-### **Aula 11 - Representação de Textos**
+### **Aula 11 - Chatbot com Dialogflow**
   
 ##### &nbsp;&nbsp;&nbsp; [Dados](https://github.com/adalves-ufabc/2021.QS-PLN/tree/main/Aula%2011/data) 
 
