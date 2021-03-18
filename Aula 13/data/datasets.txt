@@ -1,0 +1,18 @@
+
+https://www.kaggle.com/data
+
+- Tweets sobre a COVID - https://ieee-dataport.org/open-access/corona-virus-covid-19-tweets-dataset
+
+- Reviews de Apps da play store - https://www.kaggle.com/lava18/google-play-store-apps
+
+- Notícias:
+
+Huffman Post: https://www.kaggle.com/rmisra/news-category-dataset
+
+Folha/Uol: https://www.kaggle.com/marlesson/news-of-the-site-folhauol
+
+ChatterBots - https://github.com/gunthercox/chatterbot-corpus
+
+- GitHub typos: https://github.com/mhagiwara/github-typo-corpus
+
+- Diversos: https://github.com/dariusk/corpora
