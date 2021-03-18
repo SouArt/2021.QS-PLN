@@ -36,14 +36,18 @@ UFABC [CMCC]
   
 ##### &nbsp;&nbsp;&nbsp; [Dados](https://github.com/adalves-ufabc/2021.QS-PLN/tree/main/Aula%2007/data) 
 
-### **Aula 13 - Classificação de Textos**
-##### &nbsp;&nbsp;&nbsp; [2021_Q1_PLN_Notebook_10.ipynb](https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2005/2021_Q1_PLN_Notebook_10.ipynb)
+### **Aula 11 - Representação de Textos**
   
-##### &nbsp;&nbsp;&nbsp; [2021_Q1_PLN_Notebook_11.ipynb](https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2005/2021_Q1_PLN_Notebook_11.ipynb)
+##### &nbsp;&nbsp;&nbsp; [Dados](https://github.com/adalves-ufabc/2021.QS-PLN/tree/main/Aula%2011/data) 
 
-##### &nbsp;&nbsp;&nbsp; [2021_Q1_PLN_Notebook_12.ipynb](https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2005/2021_Q1_PLN_Notebook_12.ipynb)
+### **Aula 13 - Classificação de Textos**
+##### &nbsp;&nbsp;&nbsp; [2021_Q1_PLN_Notebook_10.ipynb](https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2013/2021_Q1_PLN_Notebook_10.ipynb)
+  
+##### &nbsp;&nbsp;&nbsp; [2021_Q1_PLN_Notebook_11.ipynb](https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2013/2021_Q1_PLN_Notebook_11.ipynb)
 
-##### &nbsp;&nbsp;&nbsp; [Dados](https://github.com/adalves-ufabc/2021.QS-PLN/tree/main/Aula%2007/data) 
+##### &nbsp;&nbsp;&nbsp; [2021_Q1_PLN_Notebook_12.ipynb](https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2013/2021_Q1_PLN_Notebook_12.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [Dados](https://github.com/adalves-ufabc/2021.QS-PLN/tree/main/Aula%2013/data) 
 
 
 
