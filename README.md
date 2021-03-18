@@ -37,7 +37,9 @@ UFABC [CMCC]
 ##### &nbsp;&nbsp;&nbsp; [Dados](https://github.com/adalves-ufabc/2021.QS-PLN/tree/main/Aula%2007/data) 
 
 ### **Aula 11 - Chatbot com Dialogflow**
-  
+
+##### &nbsp;&nbsp;&nbsp; [Projeto no Glitch](https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2011/ufabc-pln-projeto-glitch.tgz)
+
 ##### &nbsp;&nbsp;&nbsp; [Dados](https://github.com/adalves-ufabc/2021.QS-PLN/tree/main/Aula%2011/data) 
 
 ### **Aula 13 - Classificação de Textos**
