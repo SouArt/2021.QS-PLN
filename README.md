@@ -52,4 +52,9 @@ UFABC [CMCC]
 ##### &nbsp;&nbsp;&nbsp; [Dados](https://github.com/adalves-ufabc/2021.QS-PLN/tree/main/Aula%2013/data) 
 
 
+### **Aula 14 - Análise de Sentimentos**
+##### &nbsp;&nbsp;&nbsp; [2021_Q1_PLN_Notebook_13.ipynb](https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2014/2021_Q1_PLN_Notebook_13.ipynb)
+  
+##### &nbsp;&nbsp;&nbsp; [2021_Q1_PLN_Notebook_14.ipynb](https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2014/2021_Q1_PLN_Notebook_14.ipynb)
+
 
