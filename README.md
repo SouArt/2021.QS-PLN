@@ -57,6 +57,7 @@ UFABC [CMCC]
   
 ##### &nbsp;&nbsp;&nbsp; [2021_Q1_PLN_Notebook_14.ipynb](https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2014/2021_Q1_PLN_Notebook_14.ipynb)
 
+
 ### **Aula 15 - Extração e Pré-processamento de Dados [Texto]**
 ##### &nbsp;&nbsp;&nbsp; [2021_Q1_PLN_Notebook_15.ipynb](https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2015/2021_Q1_PLN_Notebook_15.ipynb)
   
@@ -65,6 +66,15 @@ UFABC [CMCC]
 ##### &nbsp;&nbsp;&nbsp; [2021_Q1_PLN_Notebook_17.ipynb](https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2015/2021_Q1_PLN_Notebook_17.ipynb)
 
 ##### &nbsp;&nbsp;&nbsp; [Dados](https://drive.google.com/drive/folders/19WMti6LyQTR4XLGiVEZ5Oumz9BLJRr2e?usp=sharing) 
+
+
+### **Aula 16 - Chatbots**
+##### &nbsp;&nbsp;&nbsp; [2021_Q1_PLN_Notebook_18.ipynb](https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2016/2021_Q1_PLN_Notebook_18.ipynb)
+  
+##### &nbsp;&nbsp;&nbsp; [2021_Q1_PLN_Notebook_19.ipynb](https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2016/2021_Q1_PLN_Notebook_19.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2021_Q1_PLN_Notebook_20.ipynb](https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2016/2021_Q1_PLN_Notebook_20.ipynb)
+
 
 
 
