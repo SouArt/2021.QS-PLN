@@ -76,6 +76,17 @@ UFABC [CMCC]
 ##### &nbsp;&nbsp;&nbsp; [2021_Q1_PLN_Notebook_20.ipynb](https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2016/2021_Q1_PLN_Notebook_20.ipynb)
 
 
+## **Aula 17 - Modelagem de Tópicos**
+##### &nbsp;&nbsp;&nbsp; [2021_Q1_PLN_Notebook_21.ipynb](https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2017/2021_Q1_PLN_Notebook_21.ipynb)
+  
+##### &nbsp;&nbsp;&nbsp; [2021_Q1_PLN_Notebook_22.ipynb](https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2017/2021_Q1_PLN_Notebook_22.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2021_Q1_PLN_Notebook_23.ipynb](https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2017/2021_Q1_PLN_Notebook_23.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2021_Q1_PLN_Notebook_24.ipynb](https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2017/2021_Q1_PLN_Notebook_24.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [Dados](https://github.com/adalves-ufabc/2021.QS-PLN/tree/main/Aula%2017/data) 
+
 
 
 
