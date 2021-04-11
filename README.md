@@ -98,6 +98,22 @@ UFABC [CMCC]
 ##### &nbsp;&nbsp;&nbsp; [Dados](https://github.com/adalves-ufabc/2021.QS-PLN/tree/main/Aula%2018/data) 
 
 
+## **Aula 19 - Sumarização de Textos**
+##### &nbsp;&nbsp;&nbsp; [2021_Q1_PLN_Notebook_28.ipynb](https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2019/2021_Q1_PLN_Notebook_28.ipynb)
+  
+##### &nbsp;&nbsp;&nbsp; [2021_Q1_PLN_Notebook_29.ipynb](https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2019/2021_Q1_PLN_Notebook_29.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2021_Q1_PLN_Notebook_30.ipynb](https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2019/2021_Q1_PLN_Notebook_30.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2021_Q1_PLN_Notebook_31.ipynb](https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2019/2021_Q1_PLN_Notebook_31.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2021_Q1_PLN_Notebook_32.ipynb](https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2019/2021_Q1_PLN_Notebook_32.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2021_Q1_PLN_Notebook_33.ipynb](https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2019/2021_Q1_PLN_Notebook_33.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [Dados](https://github.com/adalves-ufabc/2021.QS-PLN/tree/main/Aula%2019/data) 
+
+
 
 
 
