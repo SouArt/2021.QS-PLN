@@ -121,12 +121,12 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2021_Q1_PLN_Notebook_36.ipynb](https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2020/2021_Q1_PLN_Notebook_36.ipynb)
 
-##### &nbsp;&nbsp;&nbsp; [Dados](https://github.com/adalves-ufabc/2021.QS-PLN/tree/main/Aula%2020/data) 
-
-## **Sistemas de Perguntas e Respostas**
+### **Sistemas de Perguntas e Respostas**
 ##### &nbsp;&nbsp;&nbsp; [2021_Q1_PLN_Notebook_37.ipynb](https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2020/2021_Q1_PLN_Notebook_37.ipynb)
 
-## **Técnicas Diversas**
+##### &nbsp;&nbsp;&nbsp; [Dados](https://github.com/adalves-ufabc/2021.QS-PLN/tree/main/Aula%2020/data) 
+
+### **Técnicas Diversas**
 ##### &nbsp;&nbsp;&nbsp; [2021_Q1_PLN_Notebook_38.ipynb](https://github.com/adalves-ufabc/2021.QS-PLN/blob/main/Aula%2020/2021_Q1_PLN_Notebook_38.ipynb)
 
 
